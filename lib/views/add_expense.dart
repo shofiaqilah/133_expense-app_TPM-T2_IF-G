@@ -1,7 +1,7 @@
 import 'package:expense_tracker_app/controllers/expense_controller.dart';
 import 'package:expense_tracker_app/models/expense.dart';
-import 'package:expense_tracker_app/views/home_view.dart';
-import 'package:expense_tracker_app/views/kursAPI_view.dart';
+// import 'package:expense_tracker_app/views/home_view.dart';
+// import 'package:expense_tracker_app/views/kursAPI_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
